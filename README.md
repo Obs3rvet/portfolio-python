@@ -1,4 +1,4 @@
-# 🐍 Portafolio de Python Scripting – Obs3rvet
+# 👁️ Portafolio de Python Scripting – Obs3rvet
 
 Bienvenido a mi portafolio como desarrollador Python orientado a scripting, automatización y herramientas útiles.  
 
