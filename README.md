@@ -20,11 +20,6 @@ Bienvenido a mi portafolio como desarrollador Python orientado a scripting, auto
 | `docs/`        | Documentación o tutoriales |
 | `assets/`      | Imágenes, capturas, logotipos |
 
-## 🚀 Próximos proyectos
-
-- [ ] `crypto_price_alert.py`: alertas automáticas con precios de criptomonedas
-- [ ] `osint_ip_lookup.py`: herramienta básica de OSINT para analizar IPs
-- [ ] `discord_auto_status.py`: bot de Discord que actualiza su estado automáticamente
 
 ---
 
